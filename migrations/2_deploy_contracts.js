@@ -19,5 +19,4 @@ module.exports = function(deployer) {
                     }).then(function() {
                       return deployer.deploy(Control, {gas : gasLimit});
                       })
-//ADA : DdzFFzCqrhsg9ukzjWpLEdHLL2DxwzDsAedJZVz4yGQbsRZKA1vtdV1eTprMc33frD95SfwzGKb3xbFm19G7pPV7NwGvb7vzhoYQHZa1
 };
